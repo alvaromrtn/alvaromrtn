@@ -1,14 +1,11 @@
 # ¡Hola! 👽 Mi nombre es Álvaro 👽
 
-
 ![Contador de visitas](https://komarev.com/ghpvc/?username=alvaromrtn)
-
 
 ## 🧑🏻‍💻 Sobre mí
 - 🎓 He estudiado el Grado en Ingeniería Informática en la Universidad de Salamanca.
 - 👔 Trabajo en Digital Architecture en NTT Data.
 - 🎮 Me encantan los videojuegos.
-
 
 ## 🛠 Stack tecnológico
 ### Lenguajes Básicos
@@ -29,16 +26,14 @@
 ### DevOps
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
 
-### Other
+### Otros
 <img src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white"/><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><img src="https://img.shields.io/badge/Postman-%23F05032.svg?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white"/>
-
 
 ## 🚀 Estadísticas
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=alvaromrtn&show_icons=true&count_private=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alvaromrtn&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## 📫 Contacto
 <p align="center">
