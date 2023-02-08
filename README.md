@@ -4,7 +4,7 @@
 
 ## 🧑🏻‍💻 Sobre mí
 - 🎓 He estudiado el Grado en Ingeniería Informática en la Universidad de Salamanca.
-- 👔 Trabajo en Digital Architecture en NTT Data.
+- 👔 Trabajo como Arquitecto MuleSoft en NTT Data.
 - 🎮 Me encantan los videojuegos.
 
 ## 🛠 Stack tecnológico
